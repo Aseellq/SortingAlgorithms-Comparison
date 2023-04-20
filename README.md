@@ -1,6 +1,6 @@
 # Idea of the project:
 
-taking a input size (n) from the user, then the program decides to use insertion sort or quick sort based on (n). If the size is greater than the threshold value, then the quicksort algorithm for that part of the array is called. Else, insertion sort is called.
+The program takes an input size (n) from the user, then the program decides to use insertion sort or quick sort based on (n). If the size is greater than the threshold value, then the quicksort algorithm for that part of the array is called. Else, insertion sort is called.
 
 
 ## _Introduction:_
